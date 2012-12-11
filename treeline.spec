@@ -104,3 +104,10 @@ install -D -m 644 %{buildroot}%{_datadir}/%{name}/icons/tree/%{name}.png %{build
 %{_datadir}/%{name}
 %{_iconsdir}/%{name}.png
 
+
+
+%changelog
+* Thu May 24 2012 Matthew Dawkins <mattydaw@mandriva.org> 1.4.1-1
++ Revision: 800424
+- imported package treeline
+
