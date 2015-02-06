@@ -1,7 +1,7 @@
 Summary:	Versatile Tree-Style Outliner for Defining Custom Data Schemas
 Name:		treeline
 Version:	1.4.1
-Release:	1
+Release:	2
 Group:		Office
 License:	GPLv2+
 Url:		http://treeline.bellz.org/
