@@ -4,7 +4,7 @@ Version:	1.4.1
 Release:	2
 Group:		Office
 License:	GPLv2+
-Url:		http://treeline.bellz.org/
+Url:		https://treeline.bellz.org/
 Source0:	%{name}-%{version}.tar.gz
 Source1:	%{name}-i18n-%{version}a.tar.gz
 Source2:	httpload2.py.tar.gz
